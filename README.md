@@ -80,6 +80,9 @@ have to be changed to your buckets unique ARN, which is provided above the bucke
 }
 ```
 
+Make sure that you are keeping the `/*` at the end of the resource to allow
+all parts of the bucket to be accessed.
+
 ## Reccommended - Creating an IAM user that can be used with the AWS CLI
 
 In order to get into the best habits of creating roles that only have the access they need, 
