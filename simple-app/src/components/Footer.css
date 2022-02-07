@@ -1,0 +1,19 @@
+.page-footer{
+    margin-top:50px;
+    min-height:100px;
+    font-size:20px;
+    color:white;
+}
+
+.page-footer a{
+    color:white;
+}
+
+.footer-elem{
+    text-align:center;
+}
+
+#last-footer{
+    margin-right:none;
+    padding-right:none;
+}

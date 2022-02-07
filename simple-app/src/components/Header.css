@@ -1,0 +1,12 @@
+.navbar-brand{
+    font-size:30px;
+}
+
+.option-text{
+    font-family:'Lato', sans-serif;
+    font-weight: bold;
+}
+
+.nav-link{
+    padding-top:15px;
+}
